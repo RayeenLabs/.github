@@ -16,6 +16,12 @@ We build tools that prioritize:
 • developer experience  
 • long-term sustainability  
 
+## Roadmap
+
+• NONF.Net — .NET reference implementation  
+• NONF.CLI — command-line tooling  
+• Documentation & ecosystem tooling  
+
 ## Links
 
-🌐 GitHub: https://github.com/RayeenLabs  
+🌐 GitHub: https://github.com/RayeenLabs
